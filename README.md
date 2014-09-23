@@ -3,8 +3,8 @@ cDemo01
 
 Simple C Program Showing Jade Robot Moving Forwards at Full Speed for One Second.  
 
-Uses the "motorset" syscall API for setting motor direction and speed.  
-Uses the "delay" syscall API for delaying execution for the set number of milliseconds.  
+- Uses the "motorset" syscall API for setting motor direction and speed.  
+- Uses the "delay" syscall API for delaying execution for the set number of milliseconds.  
 
 ### Project Information
 ```
