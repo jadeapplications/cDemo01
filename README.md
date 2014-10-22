@@ -9,7 +9,7 @@ Simple C Program Showing Jade Robot Moving Forwards at Full Speed for One Second
 ### Project Information
 ```
 Type              : C
-Version           : 01.0
+Version           : 1.0
 Author            : myke predko
 Firmware          : 42
 ```
